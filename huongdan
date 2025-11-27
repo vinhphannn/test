@@ -1,0 +1,16 @@
+action
+seach workflow
+dart
+configure
+
+
+git push
+
+
+action
+ios ipa build
+run workflow
+
+
+release 
+down file ipa ve iphone
